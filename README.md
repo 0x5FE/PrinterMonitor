@@ -6,19 +6,9 @@
 
 - ***PowerShell:*** Ensure that PowerShell is installed on the system.
   
-- ***Active Directory module:*** The Active Directory module is used to fetch printer port information, make sure it is installed and imported using:
+- ***Active Directory module:*** The Active Directory module is used to fetch printer port information.
 
-  `Import-Module ActiveDirectory `
 
-  Or
-
-- Open PowerShell as an administrator.
-  
-- Run the following command to install the module:
-
-  `
-Install-WindowsFeature RSAT-AD-PowerShell
-`
 
 # Adjustments for Correct Functionality
 
