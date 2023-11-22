@@ -8,7 +8,9 @@
   
 - ***Active Directory module:*** The Active Directory module is used to fetch printer port information, make sure it is installed and imported using:
 
-  `Import-Module ActiveDirectory command`
+  `Import-Module ActiveDirectory `
+
+  Or
 
 - Open PowerShell as an administrator.
   
